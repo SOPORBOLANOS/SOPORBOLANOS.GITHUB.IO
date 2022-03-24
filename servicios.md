@@ -22,5 +22,5 @@ Y darles preolidad
 Mantenimiento correctivo : nuestro mantenimiento correctivo : es seguro     la ejecutamos cuando sucede una avería y tiene como objetivo reuatrar el activo  siempre dando solución a todo con facilidad
 Saiempew dando por último un mantenimiento preventivo para prevenir cualquier falla del equipo 
 
-Soporte a distancia : podemos ofrecer nuestro servicio de manera a distancia haciéndolo de manera remota o dando indicaciones a seguir 
+Soporte a distancia : podemo s ofrecer nuestro servicio de manera a distancia haciéndolo de manera remota o dando indicaciones a seguir 
 Soporte a presencial :  ofrecemos nuestro servicio de manera  presencial dando solución y resolviendo el problema en el momento u resolviendo cualquier duda 
