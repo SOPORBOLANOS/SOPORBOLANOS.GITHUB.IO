@@ -1,4 +1,4 @@
-
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 Nuestros servicios son los mejores 
 Y más confiables
  Le damos mantenimiento a tu PC 
