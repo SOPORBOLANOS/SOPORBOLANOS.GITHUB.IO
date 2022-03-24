@@ -1,4 +1,4 @@
-[Nosotros](./Nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](Ubicacion.md) . [Contacto](./Contacto.md)
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 ##  bienvenidos a  SOPORBOLANOS
 
 LA EMPRESA SOPORBOLANOS ES PARA TI 
