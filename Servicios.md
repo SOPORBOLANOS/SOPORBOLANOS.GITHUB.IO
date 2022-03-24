@@ -1,4 +1,4 @@
-[Nosotros](./Nosotros.md) . [Servicios](./Servicios.md) . [FAQ](FAQ.md) . [Ubicación](Ubicacion.md) . [Contacto](./Contacto.md)
+[nosotros](./nosotros.md) . [servicios](./servicios.md) . [fAQ](fAQ.md) . [ubicación](ubicacion.md) . [contacto](./contacto.md)
 
 
 Nuestros servicios son los mejores 
