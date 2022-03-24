@@ -6,7 +6,7 @@
 
 ¿que soluciones hay para mi pc 
    
-¿por que mi equipo no agarra 
+¿por que mi equipo no agarra  
 
 
 
