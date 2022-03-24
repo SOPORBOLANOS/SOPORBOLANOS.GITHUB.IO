@@ -1,5 +1,5 @@
 [Nosotros](./Nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](Ubicacion.md) . [Contacto](./Contacto.md)
-## Welcome to SOPORBOLANOS
+##  bienvenidos a  SOPORBOLANOS
 
 LA EMPRESA SOPORBOLANOS ES PARA TI 
 ENCONTRARAS LA MEJOR CALIDAD MEJOR SERVICIO PARA TU PC Y PODEMOS  RESOLVER CUALQUIER PROBLEMA QUE TENGAS CON TU PC NOSOTROS SOMOS SEGUROS  EN TODO MOMENTO 
