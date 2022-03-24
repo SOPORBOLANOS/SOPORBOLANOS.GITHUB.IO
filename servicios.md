@@ -23,4 +23,4 @@ Mantenimiento correctivo : nuestro mantenimiento correctivo : es seguro     la e
 Saiempew dando por último un mantenimiento preventivo para prevenir cualquier falla del equipo 
 
 Soporte a distancia : podemos ofrecer nuestro servicio de manera a distancia haciéndolo de manera remota o dando indicaciones a seguir 
-Soporte a presencial :  ofrecemos nuestro servicio de manera presencial dando solución y resolviendo el problema en el momento u resolviendo cualquier duda 
+Soporte a presencial :  ofrecemos nuestro servicio de manera  presencial dando solución y resolviendo el problema en el momento u resolviendo cualquier duda 
