@@ -124,7 +124,7 @@ Los secuestradores de navegadores son un tipo bastante desagradable de malware. 
 
 ¿Mi Wi-Fi se sigue desconectando?
 
-Las conexiones inalámbricas irregulares pueden ser un rompecabezas. 
+Las conexiones inalámbricas irregulares pueden ser  un rompecabezas. 
 
 
 ¿Sigo viendo el mensaje ‘Hay un problema con el certificado de seguridad de este sitio web?
