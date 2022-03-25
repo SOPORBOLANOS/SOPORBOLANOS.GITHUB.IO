@@ -175,9 +175,24 @@ Cuando se reinstala Windows en el PC, tendrá 90 días para activar la licencia 
 ¿ Reinstalé Windows en mi PC pero ahora no funcionan los parlantes.?
 
 Cuando se efectúa una instalación limpia, es decir, se reinstala por completo el sistema operativo, es común que se borren todos los controladores del computador, incluidos los de audio, video, módem, red, unidad óptica (DVD, CD), etc.
+
+¿Algunas personas no pueden abrir los documentos de Office que les envío.?
+
+Esto se debe a que Office 2007 incluye una funcionalidad que vuelve incompatible el formato de los documentos que genera con versiones anteriores del programa. Tal función (llamada XML) la incluyó Microsoft para permitir que otros programas empresariales puedan usar la información de un documento
  
+  . Instalé un periférico, pero Windows Vista dice que hubo un problema de instalación de los controladores. ¿Qué hacer? 
+
+Aunque ya no es tan común, Windows Vista suele generar errores tras la instalación de ciertos dispositivos externos. Para evitarse cualquier inconveniente, lo mejor es que revise que el controlador del aparato (cámara, escáner, impresora, etc.) que está instalando tenga una versión para Windows Vista.
   
-  
+ No encuentro las tildes en el teclado o cuando las tecleeo aparece otro símbolo.
 
+Para corregir esto necesita configurar su teclado en español latinoamericano de Colombia. Dé clic en Inicio, Panel de control y luego en el botón 'Configuración regional y de idioma'. En la pestaña 'Opciones regionales' elija 'Español Colombia'. Ahora dé clic en la pestaña Idiomas y luego en el botón Detalles.
 
+ ¿
+Mi memoria USB tiene virus .?
 
+Los hackers decidieron aprovechar la 'promiscuidad' que existe en el uso de las memorias USB para facilitar el transporte entre PC de virus y programas espías
+
+¿Cómo averiguo si mi computador tiene un virus?
+
+Existen algunos síntomas que pueden ayudarle a determinar si está infectado con virus su computador como: el equipo se reinicia o apaga solo, se pierden archivos,
