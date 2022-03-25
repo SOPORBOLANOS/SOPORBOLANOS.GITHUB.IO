@@ -1,4 +1,4 @@
-[nosotros](./nosotros.md) . [servicios](./servicios.md) . [fAQ](FAQ.md) . [ubicación](ubicacion.md) . [contacto](./contacto.md)
+[nosotros](./nosotros.md) . [servicios](./servicios.md) . [fAQ](./FAQ.md) . [ubicación](./ubicacion.md) . [contacto](./contacto.md)
 
 ¿que es lo que te gustaria encontrar en nuestra empresa '
 UNA BUENA ATENCION DEL TECNICO AL CLIENTE 
