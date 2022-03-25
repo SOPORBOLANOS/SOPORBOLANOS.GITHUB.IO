@@ -5,6 +5,8 @@ UNA BUENA ATENCION DEL TECNICO AL CLIENTE
 
 ¿cuanto es el costo
 DEPENDE QUE SERVICIO REQUIERAS 
+
+
 ¿que soluciones hay para mi pc si no prende 
 puede que muchas 
 
@@ -38,13 +40,17 @@ CADA 6 MESES
 
 
 ¿ POR QUE MI EQUIPO SACA MUCHOS ANUNCIOS 
- TIENE UN VIRUS 
 
+Para impedir que los sitios muestren anuncios intrusivos o engañosos, cambia la configuración
 
+¿ como quito el virus de mi pc
+limpiando con un antivirus 
+ 
 
 
 ¿ POR QUE MI PC TIENE VIRUS 
- POR PAFGINAS O JUEGOS 
+
+POR PAFGINAS O JUEGOS Los virus informáticos casi siempre son invisibles. Sin protección antivirus, es posible que tu equipo esté infectado y no lo sepas.
 
 
 ¿ POR QUE EL MONITOR NO PRENDE 
@@ -52,7 +58,48 @@ CADA 6 MESES
 
 
 ¿por que mi pc esta caliente 
- puede ser que lo estes ocupando mucho 
+
+puede ser que lo estes ocupando mucho 
+
+
+¿En qué momento se tiene que aplicar el soporte técnico por conexión remota?
+
+-Cuando el técnico no puede ir a arreglar de forma presencial se conecta a la computadora del usuario teniendo lo mismo de su escritorio.
+
+¿POR QUE  El PC va muy lento.
+
+
+Si tu ordenador ha disminuido su rendimiento, puede que necesites desfragmentar el disco o hayas instalado algún ejecutable malicioso que afecta a la velocidad del sistema y te haga falta una limpieza de virus.
+
+
+¿ POR QUE El ratón y el teclado no funcionan 
+
+
+Puede que sea sólo una mala conexión o necesites limpiar la rueda de tu mouse. Para eso no hace faltar reparar (evidentemente), pero también puede que se haya averiado el puerto o se haya torcido el conector.
+
+
+¿  POR QUE Mi lector de CDs no reconoce los discos.
+
+
+Si no te deja leer CDs, tienes un problema. Puede que la dificultad esté en que el disco esté sucio o rayado, haya un problema de drivers o que realmente esté dañado.
+
+
+¿POR QUE TENGO Problemas con la tarjeta gráfica
+
+
+Al margen de los problemas de drivers, si tu tarjeta está integrada, siempre puede haber problemas ligados al calentamiento general o el correcto funcionamiento de la placa base.
+
+
+¿Problemas con los ventiladores de tu PC.
+
+
+A veces están sucios o averiados, hacen un ruido anormal al arrancar el ordenador o directamente no se encienden. Todo esto son signos de que necesitan abrir la carcasa y hacer tareas de mantenimiento informático. 
+
+
+
+
+ 
+ 
  
  
  
