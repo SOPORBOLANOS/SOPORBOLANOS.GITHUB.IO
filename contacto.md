@@ -8,11 +8,10 @@ E-mail: <input type="text" name="email"><br>
     
     
  
-  <label for="nombre">First name:</label><br>
+  <label for="nombre">nombre:</label><br>
   <input type="text" id="fname" name="fname"><br>
-  <label for="Apellidos">Last name:</label><br>
+  <label for="Apellidos">apellido:</label><br>
   <input type="text" id="lname" name="lname"><br><br>
   <input type="submit" value="Submit">
 </form>
 
-<p>Note that the form itself is not visible.</p>
