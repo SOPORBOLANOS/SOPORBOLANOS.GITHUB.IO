@@ -6,3 +6,11 @@ E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
   
+   
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<p>Note that the form itself is not visible.</p>
