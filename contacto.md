@@ -16,14 +16,14 @@ E-mail: <input type="text" name="email"><br>
 </form>
 
 <form action="/action_page.php">
-  <label for="birthday">Birthday:</label>
-  <input type="date" id="birthday" name="birthday">
+  <label for="birthday">fecha:</label>
+  <input type="date" id="fecha de servicio " name="birthday">
   <input type="submit" value="Submit">
 </form>
  
 <form action="/action_page.php">
-  <label for="email">Enter your email:</label>
-  <input type="email" id="email" name="email">
+  <label for="email">correo:</label>
+  <input type="email" id="correo" name="email">
   <input type="submit" value="Submit">
 </form>
  
