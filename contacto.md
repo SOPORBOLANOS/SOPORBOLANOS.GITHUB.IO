@@ -15,3 +15,8 @@ E-mail: <input type="text" name="email"><br>
   <input type="submit" value="Submit">
 </form>
 
+<form action="/action_page.php">
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday">
+  <input type="submit" value="Submit">
+</form>
