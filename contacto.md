@@ -12,20 +12,25 @@ E-mail: <input type="text" name="email"><br>
   <input type="text" id="fname" name="fname"><br>
   <label for="Apellidos">apellido:</label><br>
   <input type="text" id="lname" name="lname"><br><br>
-  <input type="submit" value="Submit">
+  <input type="enviar" value="Submit">
 </form>
 
 <form action="/action_page.php">
   <label for="birthday">fecha:</label>
   <input type="date" id="fecha de servicio " name="birthday">
-  <input type="submit" value="Submit">
+  <input type="enviar" value="Submit">
 </form>
  
 <form action="/action_page.php">
   <label for="email">correo:</label>
   <input type="email" id="correo" name="email">
-  <input type="submit" value="Submit">
+  <input type="enviar" value="Submit">
 </form>
  
- 
+ <form action="/action_page.php">
+  <label for="numero">numerr:</label><br><br>
+  <input type="tel" id="phone" name="phone" placeholder="123-45-678" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required><br><br>
+  <small>Format: 123-45-678</small><br><br>
+  <input type="enviar" value="Submit">
+</form>
  
