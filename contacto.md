@@ -28,14 +28,14 @@ E-mail: <input type="text" name="email"><br>
 </form>
  
  <form action="/action_page.php">
-  <label for="numero">numerr:</label><br><br>
+  <label for="numero">numero telefonico:</label><br><br>
   <input type="tel" id="phone" name="phone" placeholder="123-45-678" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required><br><br>
   <small>Format: 123-45-678</small><br><br>
   <input type="enviar" value="Submit">
 </form>
- 
- ​<form action="/action_page.php" method="get">
-  <label for="vol">Volume (between 0 and 50):</label>
+
+​<form action="/action_page.php" method="get">
+  <label for="calificacion">Volume (between 0 and10):</label>
   <input type="range" id="vol" name="vol" min="0" max="50">
-  <input type="submit" value="Submit">
+  <input type="enviar" value="Submit">
 </form>
