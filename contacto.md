@@ -20,3 +20,4 @@ E-mail: <input type="text" name="email"><br>
   <input type="date" id="birthday" name="birthday">
   <input type="submit" value="Submit">
 </form>
+ 
